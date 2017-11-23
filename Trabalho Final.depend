@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1463489366 source:c:\users\tiago coutinho\desktop\trabalho final\main.c
+	<stdio.h>
+
+1465771917 source:c:\users\tiago coutinho\google drive\2º semestre 2015-2016\programação\trabalho prático\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"auxiliares.h"
+
+1465764440 c:\users\tiago coutinho\google drive\2º semestre 2015-2016\programação\trabalho prático\auxiliares.h
+
+1465764205 c:\users\tiago coutinho\google drive\2º semestre 2015-2016\programação\trabalho prático\main.h
+
+1465765340 source:c:\users\tiago coutinho\google drive\2º semestre 2015-2016\programação\trabalho prático\auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"auxiliares.h"
+
+1465765342 source:c:\users\tiago coutinho\google drive\2º semestre 2015-2016\programação\trabalho final\prog_p11_21250388\trabalho prático\auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"auxiliares.h"
+
+1465764442 c:\users\tiago coutinho\google drive\2º semestre 2015-2016\programação\trabalho final\prog_p11_21250388\trabalho prático\auxiliares.h
+
+1465771918 source:c:\users\tiago coutinho\google drive\2º semestre 2015-2016\programação\trabalho final\prog_p11_21250388\trabalho prático\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"auxiliares.h"
+
+1465761742 source:c:\users\tiago coutinho\google drive\1 ano - 2 semestre\programação\trabalho final\prog_p11_21250388\trabalho prático\auxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"auxiliares.h"
+
+1465760842 c:\users\tiago coutinho\google drive\1 ano - 2 semestre\programação\trabalho final\prog_p11_21250388\trabalho prático\auxiliares.h
+
+1465768318 source:c:\users\tiago coutinho\google drive\1 ano - 2 semestre\programação\trabalho final\prog_p11_21250388\trabalho prático\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"auxiliares.h"
+
